@@ -1,6 +1,10 @@
 body{
     background: #BDBDBD;
 }
+
+.portfolio {
+    text-align: justify;
+}
 .onePage {
     font-size: calc(1.525rem + 5vw); 
     background: #f8f9fa;
